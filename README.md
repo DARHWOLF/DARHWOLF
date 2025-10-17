@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- OPEN_PRS:START -->
+## 🔧 My Open Pull Requests
+
+Loading...
+
+*This section is automatically updated by GitHub Actions*
+<!-- OPEN_PRS:END -->
