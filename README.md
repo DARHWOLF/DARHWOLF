@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 
 *Last updated: 2025-10-18 12:07:09 UTC*
 <!-- OPEN_PRS:END -->
+<!-- MERGED_PRS:START -->
+- [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
+ <!-- MERGED_PRS:END -->
