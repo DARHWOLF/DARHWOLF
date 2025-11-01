@@ -30,7 +30,7 @@ jobs:
             > prs.json
           
           # Parse and format the PRs
-          echo "## 🔧 My Open Pull Requests" > pr_section.md
+          echo "### My Open Pull Requests" > pr_section.md
           echo "" >> pr_section.md
           
           # Check if there are any PRs
