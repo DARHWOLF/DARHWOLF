@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #### When life gives you confounders, uncover the hidden truths...
 
 <!-- OPEN_PRS:START -->
-### My Open Pull Requests
+## My Open Pull Requests
 
 - [[BUG] fixes causal structure in DML: `test_dag_roles_validation_and_pretreatment_…`](https://github.com/pgmpy/pgmpy/pull/2397) - pgmpy - Updated: 2025-10-29
 - [[ENH] Add Naive IV Regressor ](https://github.com/pgmpy/pgmpy/pull/2378) - pgmpy - Updated: 2025-10-28
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
 - [[DARHWOLF]: Add me as contributor](https://github.com/vishalj0501/hacktoberfest-2022/pull/31) - hacktoberfest-2022 - Updated: 2022-10-23
 
-*Last updated: 2025-11-01 13:20:44 UTC*
+*Last updated: 2025-11-01 13:25:44 UTC*
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
