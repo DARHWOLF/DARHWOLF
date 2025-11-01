@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+When life gives you confounders, uncover the hidden truths 
 
 <!-- OPEN_PRS:START -->
-## 🔧 My Open Pull Requests
+##  My Open Pull Requests
 
 - [[BUG] fixes causal structure in DML: `test_dag_roles_validation_and_pretreatment_…`](https://github.com/pgmpy/pgmpy/pull/2397) - pgmpy - Updated: 2025-10-29
 - [[ENH] Add Naive IV Regressor ](https://github.com/pgmpy/pgmpy/pull/2378) - pgmpy - Updated: 2025-10-28
