@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
 
-- [Adds BaseCausalPrediction class](https://github.com/pgmpy/pgmpy/pull/2418) - pgmpy - Updated: 2025-11-24
 - [Self Compatibility score for the validation of causal discovery algorithms](https://github.com/pgmpy/pgmpy/pull/2058) - pgmpy - Updated: 2025-10-17
 - [[ENH] add _evalute and _evaluate_by_index methods for MSSE](https://github.com/sktime/sktime/pull/8656) - sktime - Updated: 2025-08-25
 - [Add PINO layers and layer tests](https://github.com/deepchem/deepchem/pull/4435) - deepchem - Updated: 2025-05-07
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 - [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
 - [[DARHWOLF]: Add me as contributor](https://github.com/vishalj0501/hacktoberfest-2022/pull/31) - hacktoberfest-2022 - Updated: 2022-10-23
 
-*Last updated: 2025-11-25 06:07:16 UTC*
+*Last updated: 2025-11-25 12:09:14 UTC*
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
