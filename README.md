@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
+- [[ENH] ADD NaiveIVRegressor](https://github.com/pgmpy/pgmpy/pull/2378)  - pgmpy
+- [[ENH] Adds Base Causal Prediction Class ](https://github.com/pgmpy/pgmpy/pull/2418) - pgmpy 
  <!-- MERGED_PRS:END -->
