@@ -32,3 +32,12 @@ Here are some ideas to get you started:
 - [[ENH] ADD NaiveIVRegressor](https://github.com/pgmpy/pgmpy/pull/2378)  - pgmpy
 - [[ENH] Adds Base Causal Prediction Class ](https://github.com/pgmpy/pgmpy/pull/2418) - pgmpy 
  <!-- MERGED_PRS:END -->
+
+ --
+![](https://github-readme-stats.vercel.app/api?username=DARHWOLF&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DARHWOLF&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DARHWOLF&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
