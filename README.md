@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=DARHWOLF&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DARHWOLF&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=DARHWOLF)
+![](https://komarev.com/ghpvc/?username=DARHWOLF&color=green)
 ---
+
 
 
