@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
 
-No open pull requests at the moment.
+- [ports IV identification method](https://github.com/pgmpy/pgmpy/pull/2433) - pgmpy - Updated: 2026-03-12
+- [Self Compatibility score for the validation of causal discovery algorithms](https://github.com/pgmpy/pgmpy/pull/2058) - pgmpy - Updated: 2026-03-12
+- [[ENH] add _evalute and _evaluate_by_index methods for MSSE](https://github.com/sktime/sktime/pull/8656) - sktime - Updated: 2025-08-25
+- [Add PINO layers and layer tests](https://github.com/deepchem/deepchem/pull/4435) - deepchem - Updated: 2025-05-07
+- [Add Physics-Informed Neural Operator (PINO) model and unit tests](https://github.com/deepchem/deepchem/pull/4415) - deepchem - Updated: 2025-05-03
+- [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
 
-*Last updated: 2026-04-27 18:30:28 UTC*
+*Last updated: 2026-04-28 00:40:35 UTC*
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
