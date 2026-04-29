@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - [Add PINO layers and layer tests](https://github.com/deepchem/deepchem/pull/4435) - deepchem - Updated: 2025-05-07
 - [Add Physics-Informed Neural Operator (PINO) model and unit tests](https://github.com/deepchem/deepchem/pull/4415) - deepchem - Updated: 2025-05-03
 - [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
+- [[DARHWOLF]: Add me as contributor](https://github.com/vishalj0501/hacktoberfest-2022/pull/31) - hacktoberfest-2022 - Updated: 2022-10-23
 
-*Last updated: 2026-04-29 00:41:57 UTC*
+*Last updated: 2026-04-29 06:52:50 UTC*
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
