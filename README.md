@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 --> 
 #### When life gives you confounders, uncover the hidden truths...
 
+
+## Professional Summary 
+
+
+I have actively worked on developing pgmpy. As part of the European Summer of Code 2025, I worked on building tools for causal effect estimation such as the DoubleML Regressor in an sklearn-compatible design. 
+
+I am now pursuing my Master's in Artificial Intelligence at University College London. 
+
+
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
 
