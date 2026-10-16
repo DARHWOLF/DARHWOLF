@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 ## Professional Summary 
 
 
-I have actively worked on developing the Python library `pgmpy` for over a year. My work involves implementing algorithms from the causal inference literature. As part of the European Summer of Code 2025, I worked on building tools for causal effect estimation such as the DoubleML Regressor in sklearn-compatible design. I have implemented several other algorithms such as the self compatibility metric, naiveIV regressor, IV identification methods. I have also mentored contributors 
-Currently I am building an influence diagram class and 
-For my bachelor thesis, I developed `FermiGates`, a novel algorithm for sparsifying neural networks that yields better predictions without any kind of regularization.  
+I have actively worked on developing the Python library `pgmpy` for over a year. My work involves implementing algorithms from the causal inference literature. As part of the European Summer of Code 2025, I worked on building tools for causal effect estimation, such as the DoubleML Regressor in a scikit-learn-compatible design. I have implemented several other algorithms, including the self-compatibility metric, Naive IV regressor, and IV identification methods. I have also previously mentored contributors in open-source programs, helping them work on algorithms such as causal identification and estimation methods.
 
-I am now pursuing my Master's in Artificial Intelligence at University College London. 
+Currently, I am building an influence diagram class to represent causal decision-making problems.
 
+For my bachelor's thesis, I developed `FermiGates`, a novel algorithm for sparsifying neural networks that yields better predictions without any kind of regularisation.
+
+I am now pursuing my Master's in Artificial Intelligence at University College London.
 
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
