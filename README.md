@@ -24,7 +24,7 @@ Currently, I am building an influence diagram class to represent causal decision
 
 For my bachelor's thesis, I developed `FermiGates`, a novel algorithm for sparsifying neural networks that yields better predictions without any kind of regularisation.
 
-I am now pursuing my Master's in Artificial Intelligence at University College London.
+I am now pursuing my Master's degree in Artificial Intelligence at University College London.
 
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
