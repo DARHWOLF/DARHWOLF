@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Professional Summary 
 
+My name is Raunak, and I am a researcher and open-source contributor with a strong interest in causal inference, probabilistic graphical models, and machine learning.
 
 I have actively worked on developing the Python library `pgmpy` for over a year. My work involves implementing algorithms from the causal inference literature. As part of the European Summer of Code 2025, I worked on building tools for causal effect estimation, such as the DoubleML Regressor in a scikit-learn-compatible design. I have implemented several other algorithms, including the self-compatibility metric, Naive IV regressor, and IV identification methods. I have also previously mentored contributors in open-source programs, helping them work on algorithms such as causal identification and estimation methods.
 
