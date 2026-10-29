@@ -30,7 +30,7 @@ I am now pursuing my Master's degree in Artificial Intelligence at University Co
 <!-- OPEN_PRS:START -->
 ## My Open Pull Requests
 
-- [Adds causal influence diagram class](https://github.com/pgmpy/pgmpy/pull/3653) - pgmpy - Updated: 2026-10-26
+- [Adds causal influence diagram class](https://github.com/pgmpy/pgmpy/pull/3653) - pgmpy - Updated: 2026-10-29
 - [Adds CID enhancement proposal](https://github.com/pgmpy/enhancement_proposals/pull/20) - enhancement_proposals - Updated: 2026-10-16
 - [Self Compatibility score for the validation of causal discovery algorithms](https://github.com/pgmpy/pgmpy/pull/2058) - pgmpy - Updated: 2026-10-12
 - [ports IV identification method](https://github.com/pgmpy/pgmpy/pull/2433) - pgmpy - Updated: 2026-10-12
@@ -40,7 +40,7 @@ I am now pursuing my Master's degree in Artificial Intelligence at University Co
 - [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
 - [[DARHWOLF]: Add me as contributor](https://github.com/vishalj0501/hacktoberfest-2022/pull/31) - hacktoberfest-2022 - Updated: 2022-10-23
 
-*Last updated: 2026-10-29 04:24:02 UTC*
+*Last updated: 2026-10-29 12:17:40 UTC*
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
