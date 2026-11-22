@@ -1,0 +1,51 @@
+name: Update My Commits
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every six hours, offset from the busiest minute of each hour.
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-my-commits
+  cancel-in-progress: false
+
+jobs:
+  update-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: DARHWOLF
+        run: python scripts/update_commits.py
+
+      - name: Commit changes if activity changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/my-commits.svg
+          if git diff --cached --quiet; then
+            echo "No new activity; nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh My commits activity"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Retrying push (${attempt}/3)..."
+            sleep 3
+          done
+          exit 1
