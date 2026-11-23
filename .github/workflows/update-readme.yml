@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-open-prs
+  group: profile-readme
   cancel-in-progress: false
 
 jobs:
@@ -22,6 +22,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
+          fetch-depth: 0
           persist-credentials: true
 
       - name: Fetch Open PRs
@@ -62,23 +64,33 @@ jobs:
             echo "<!-- OPEN_PRS:END -->" >> README.md
           fi
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
           git add README.md
-          if git diff --staged --quiet; then
+
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
 
-          git commit -m "Update README with open PRs"
+          git commit -m "Update README"
+
           for attempt in 1 2 3; do
-            if git pull --rebase origin "${GITHUB_REF_NAME}" &&
-               git push origin "HEAD:${GITHUB_REF_NAME}"; then
-              exit 0
+            if git pull --rebase origin main; then
+              if git push origin HEAD:main; then
+                echo "Successfully pushed changes"
+                exit 0
+              fi
             fi
+
+            # Clean up an unsuccessful rebase before retrying
+            git rebase --abort || true
+
             echo "Retrying push (${attempt}/3)..."
             sleep 3
           done
+
           exit 1
