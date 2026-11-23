@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### When life gives you confounders, uncover the hidden truths... There is occasions and causes why and wherefore in all things.
+#### When life gives you confounders, uncover the hidden truths. There is occasions and causes why and wherefore in all things.
 ## Professional Summary
 
 My name is Raunak, and I am a researcher and open-source contributor with a strong interest in causal inference, probabilistic graphical models, and machine learning.
@@ -31,11 +31,10 @@ I am now pursuing my Master's degree in Artificial Intelligence at University Co
 
 **Recent repositories:** [DARHWOLF/COMP0188.Deep_Representations_and_Learning](https://github.com/DARHWOLF/COMP0188.Deep_Representations_and_Learning) · [DARHWOLF/pgmpy](https://github.com/DARHWOLF/pgmpy) · [DARHWOLF/COMP0173_AI_for_SD](https://github.com/DARHWOLF/COMP0173_AI_for_SD)
 
-<sub>Public push activity from the past 30 days; refreshed automatically every six hours. Private work and unpushed local commits aren't included.</sub>
 <!-- MY_COMMITS:END -->
 
 <!-- OPEN_PRS:START -->
-## My Open Pull Requests
+## My Pull Requests
 
 - [Adds causal influence diagram class](https://github.com/pgmpy/pgmpy/pull/3653) - pgmpy - Updated: 2026-11-19
 - [Self Compatibility score for the validation of causal discovery algorithms](https://github.com/pgmpy/pgmpy/pull/2058) - pgmpy - Updated: 2026-11-18
@@ -47,7 +46,7 @@ I am now pursuing my Master's degree in Artificial Intelligence at University Co
 - [Add PINO model and unit tests](https://github.com/deepchem/deepchem/pull/4436) - deepchem - Updated: 2025-05-02
 - [[DARHWOLF]: Add me as contributor](https://github.com/vishalj0501/hacktoberfest-2022/pull/31) - hacktoberfest-2022 - Updated: 2022-10-23
 
-*Last updated: 2026-11-23 01:33:47 UTC*
+#### My PRs from ESoC (DoubleML and causal effect estimation)
 <!-- OPEN_PRS:END -->
 <!-- MERGED_PRS:START -->
 - [[ENH] ADD DoubleMLRegressor](https://github.com/pgmpy/pgmpy/pull/2288)  - pgmpy
