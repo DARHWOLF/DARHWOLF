@@ -29,6 +29,8 @@ I am now pursuing my Master's degree in Artificial Intelligence at University Co
 
 ![Recent public GitHub pushes by repository](./assets/my-commits.svg)
 
+**Recent repositories:** [DARHWOLF/COMP0188.Deep_Representations_and_Learning](https://github.com/DARHWOLF/COMP0188.Deep_Representations_and_Learning) · [DARHWOLF/pgmpy](https://github.com/DARHWOLF/pgmpy) · [DARHWOLF/COMP0173_AI_for_SD](https://github.com/DARHWOLF/COMP0173_AI_for_SD)
+
 <sub>Public push activity from the past 30 days; refreshed automatically every six hours. Private work and unpushed local commits aren't included.</sub>
 <!-- MY_COMMITS:END -->
 
