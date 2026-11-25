@@ -25,7 +25,7 @@
 <text x="511" y="246" font-size="14" fill="#b7cee6" font-weight="400" >Last push · 19 Nov 2026</text>
 <text x="511" y="272" font-size="13" fill="#8fb1d0" font-weight="400" >Branch: feat/causal_influence_diagrams</text>
 <rect x="816" y="239" width="89" height="29" rx="14.5" fill="#284b69"/>
-<text x="860" y="258" font-size="13" fill="#79e6c9" font-weight="600" text-anchor="middle">9 pushes</text>
+<text x="860" y="258" font-size="13" fill="#79e6c9" font-weight="600" text-anchor="middle">7 pushes</text>
 <rect x="32" y="310" width="439" height="162" rx="16" fill="#1c3655" stroke="#385b80"/>
 <rect x="32" y="328" width="4" height="44" rx="2" fill="url(#accent)"/>
 <text x="54" y="347" font-size="21" fill="#eef6ff" font-weight="700" >DARHWOLF/COMP0173_AI_for_SD</text>
